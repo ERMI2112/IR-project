@@ -1,0 +1,10 @@
+"""
+Corpus Document 5: Public Health and Environmental Pollution
+Topic: Impact of environmental pollution on public health
+"""
+
+ጤና አካባቢ ብክለት በሕዝብ ላይ አደገኛ ተጽዕኖ ሊኖረው ይችላል።
+አየር ብክለት የትንፋሽ በሽታ እና ሌላ ሥር አለ ሕመም ያስከትላል።
+ውሃ ብክለት የሚከሰተው ዘገምተኛ ኢንሕናይ ትንቅንቅ ቢሆንም ሌላ ሀገር ሌላ አገለገል።
+ሪንዋበል ኤነርጂ ጤና የሚያረገብ ምክንያቱ ብክለት የማይተእምሩ።
+ሕዝብ ብክለት ከተቀነሰ ጤናማ የሕይወት ሁኔታ ይሰጠናል።
